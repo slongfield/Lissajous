@@ -1,3 +1,7 @@
+// Lissajous is a small program for rendering Lissajous curves.
+//
+// See wikipedia for more info:
+// https://en.wikipedia.org/wiki/Lissajous_curve
 package main
 
 import (
